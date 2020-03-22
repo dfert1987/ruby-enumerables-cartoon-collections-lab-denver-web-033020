@@ -23,7 +23,7 @@ def find_the_cheese(food_array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   food_array.find do |food_array|
     cheese_types.include?(food_array)
-  #.find 
+  #.find passes each item into the block below and returns the first that isnt false
   #given the cheese types we are looking for
   # will seef if cheese_types are include in food array
   end
