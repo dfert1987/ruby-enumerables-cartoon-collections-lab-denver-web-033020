@@ -21,7 +21,7 @@ end
 
 def find_the_cheese(cheese_name)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  food_array.include?("cheddar", "gouda", "camembert") do |cheese|
+  cheese_name.find do |cheese|
     
   
 end
