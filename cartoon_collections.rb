@@ -1,7 +1,7 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 def roll_call_dwarves(array)
-  dwarf_hash ={}
+i = 0 
   
 end
 
