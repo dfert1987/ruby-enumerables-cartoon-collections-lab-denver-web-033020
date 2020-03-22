@@ -6,7 +6,7 @@ dwarves.each_with_index do |name, index|
 end
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet()
   # Your code here
 end
 
